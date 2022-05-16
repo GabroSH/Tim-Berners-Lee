@@ -1,0 +1,35 @@
+* {
+    font-family: sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+    margin-left: 20px;
+}
+.paragraph-1 {
+    color: yellow;
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.paragraph-2 {
+    color: white;
+    margin-top: 50px;
+}
+.paragraph-3 {
+    margin-top: 100px;
+    color: white;
+    margin-left: 30px;
+}
+.paragraph-4 {
+    color: white;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.img-1 {
+    width: 100%;
+}
+.img-2 {
+    width: 650px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
